@@ -11,5 +11,5 @@ You can directly run the app by clicking "bin/CCEditor.exe". If you met errors r
 ## Snapshots
 ![CCEditor][img_cceditor]
 
-[img_cceditor]: https://raw.github.com/landys/CCEditor/master/snapshots/login.png "CCEditor"  
+[img_cceditor]: https://raw.github.com/landys/CCEditor/master/snapshots/cceditor.png "CCEditor"  
 
