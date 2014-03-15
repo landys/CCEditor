@@ -1,0 +1,360 @@
+##v##00.4.50
+pagenumber=8
+linenumber=322
+sellength=0
+topline=0
+EditHelpFileTitle.Text=CCEditor
+form2.STextForeHeadline.Color=16777215
+form2.STextForeText.Color=0
+form2.STextBackHeadline.Color=8454016
+form2.STextBackText.Color=14876671
+form2.STextHeadlineFont.Caption=Arial
+form2.STextTextFont.Caption=Arial
+form2.sTextFontSizeForHeadline.Caption=12
+form2.sTextFontSizeForText.Caption=9
+form2.CBoxBold.Checked=1
+form2.CBoxNoForeColor.Checked=0
+form2.CBoxLanguageID.ItemIndex=0
+form2.CBoxCharSet.ItemIndex=0
+form2.EditContents.Text=Contents
+form2.EditFrontpageName.Text=Front page with index
+form2.CBoxDontMakeFrontpage.Checked=1
+form2.EditLogoPath.Text=
+form2.EditFrontpageButtonCaption.Text=Front page
+form2.RGroupHorizontalAlignment.ItemIndex=0
+form2.RGroupVerticalAlignment.ItemIndex=0
+form2.CBoxBlankLineBeforeEachHeading.Checked=1
+form2.CBoxMakeFrontPageButton.Checked=0
+form2.SpinEditFrontpageIDnumber.Value=9999
+form2.CBoxAddAboutMenu.Checked=0
+form2.EditAboutMenuCaption.Text=&About this help file...
+form2.CBoxPopupPagesForAboutMenu.Tag=-1
+form2.EditConstantNameFilePrefix.Text=pageConstants_
+form2.EditConstantNameFileExt.Text=txt
+form2.CBoxDontMakeHeadersKeywords.Checked=0
+form2.CBoxDontMakeTargetsKeywords.Checked=0
+copyToPath=
+form5.sTextColor1=0
+form5.sTextColor2=9743070
+form5.sTextColor3=12386403
+form5.sTextColor4=255
+form5.sTextColor5=8421376
+form5.sTextColor6=8650752
+form5.sTextColor7=33280
+form5.sTextColor8=32896
+form5.sTextColor9=13026246
+form5.sTextColor10=16711680
+form5.sTextColor11=65280
+form5.sTextColor12=8651007
+form5.sTextColor13=16777215
+form5.sTextColor14=16757429
+form5.sTextColor15=9764863
+form5.sTextColor16=8421504
+form5.sTextComment1=
+form5.sTextComment2=
+form5.sTextComment3=
+form5.sTextComment4=
+form5.sTextComment5=
+form5.sTextComment6=
+form5.sTextComment7=
+form5.sTextComment8=
+form5.sTextComment9=
+form5.sTextComment10=
+form5.sTextComment11=
+form5.sTextComment12=
+form5.sTextComment13=
+form5.sTextComment14=
+form5.sTextComment15=
+form5.sTextComment16=
+NumOfPages=18
+------------ end of project settings / page settings follow ------------
+pageC.pages[0].ImageIndex=-1
+pageTitle(0).Text=CCEditor ¼ò½é
+getPageConstantLabel(0).Caption=
+getPageContentHeaderLabel(0).Caption=
+pageKeywords(0).Text=¼ò½é;CCEditor
+pageC.pages[1].ImageIndex=-1
+pageTitle(1).Text=ÎÄ¼ş£¨File£©²Ëµ¥ÃüÁî
+getPageConstantLabel(1).Caption=
+getPageContentHeaderLabel(1).Caption=
+pageKeywords(1).Text=File;Ctrl+N;Ctrl+O;Ctrl+S;New;Open;Close;Save;Save As;Recent Files;Exit
+pageC.pages[2].ImageIndex=-1
+pageTitle(2).Text=±à¼­£¨Edit£©²Ëµ¥ÃüÁî
+getPageConstantLabel(2).Caption=
+getPageContentHeaderLabel(2).Caption=
+pageKeywords(2).Text=Edit;Undo;Cut;Copy;Paste;Delete;Select All
+pageC.pages[3].ImageIndex=-1
+pageTitle(3).Text=²é¿´£¨View£©²Ëµ¥ÃüÁî
+getPageConstantLabel(3).Caption=
+getPageContentHeaderLabel(3).Caption=
+pageKeywords(3).Text=View;Toolbar;Statusbar;Navigation
+pageC.pages[4].ImageIndex=-1
+pageTitle(4).Text=²éÕÒ£¨Search£©²Ëµ¥ÃüÁî
+getPageConstantLabel(4).Caption=
+getPageContentHeaderLabel(4).Caption=
+pageKeywords(4).Text=Search;Find;Find Next;Replace
+pageC.pages[5].ImageIndex=-1
+pageTitle(5).Text=Ñ¡Ïî£¨Options£©²Ëµ¥ÃüÁî
+getPageConstantLabel(5).Caption=
+getPageContentHeaderLabel(5).Caption=
+pageKeywords(5).Text=Options;Align To Left;Align To Right;Align To Center;Font;Color;Text Color;Char Color;Num Color;ClearRecent Files;Set Recent File Maximum;Tools;Calculator;Clipboard;Internet Explorer;Paint;Games;Hearts;Miner;Sol
+pageC.pages[6].ImageIndex=-1
+pageTitle(6).Text=´°¿Ú£¨Window£©²Ëµ¥ÃüÁî
+getPageConstantLabel(6).Caption=
+getPageContentHeaderLabel(6).Caption=
+pageKeywords(6).Text=Window;Cascade;Tile;Tile Horizontally;Tile Verically;Arrange Icons
+pageC.pages[7].ImageIndex=-1
+pageTitle(7).Text=°ïÖú£¨Help£©²Ëµ¥ÃüÁî
+getPageConstantLabel(7).Caption=
+getPageContentHeaderLabel(7).Caption=
+pageKeywords(7).Text=Help;Help Topic;About CCEditor
+pageC.pages[8].ImageIndex=-1
+pageTitle(8).Text=¹¤¾ßÀ¸£¨Toolbar£©
+getPageConstantLabel(8).Caption=
+getPageContentHeaderLabel(8).Caption=
+pageKeywords(8).Text=Toolbar;¹¤¾ßÀ¸;New;Open;Save;Undo;Cut;Copy;Paste;Delete;Help Topic;Help
+pageC.pages[9].ImageIndex=-1
+pageTitle(9).Text=×´Ì¬À¸£¨Statusbar£©
+getPageConstantLabel(9).Caption=
+getPageContentHeaderLabel(9).Caption=
+pageKeywords(9).Text=Statusbar;×´Ì¬À¸;¹¤×÷×´Ì¬;ÈÕÆÚ;Date;Ê±¼ä;Time;INS;CAP;NUM;°´¼üËø¶¨
+pageC.pages[10].ImageIndex=-1
+pageTitle(10).Text=µ¼º½À¸£¨Navigation£©
+getPageConstantLabel(10).Caption=
+getPageContentHeaderLabel(10).Caption=
+pageKeywords(10).Text=Navigation;Driver;Directory;Files;µ¼º½À¸;Çı¶¯ÅÌ;Ä¿Â¼À¸;ÎÄ¼şÇø
+pageC.pages[11].ImageIndex=-1
+pageTitle(11).Text=¼ôÌù°å¹¦ÄÜÊµÏÖ
+getPageConstantLabel(11).Caption=
+getPageContentHeaderLabel(11).Caption=
+pageKeywords(11).Text=¼ôÌù°å
+pageC.pages[12].ImageIndex=-1
+pageTitle(12).Text=²éÕÒÌæ»»¹¦ÄÜÊµÏÖ
+getPageConstantLabel(12).Caption=
+getPageContentHeaderLabel(12).Caption=
+pageKeywords(12).Text=²éÕÒ;Ìæ»»;Ìæ»»È«²¿;Replace All;Replace;Find What;Find;Find Next;Direction;Match Case;Replace With;Up;Down
+pageC.pages[13].ImageIndex=-1
+pageTitle(13).Text=³·Ïú¹¦ÄÜÊµÏÖ
+getPageConstantLabel(13).Caption=
+getPageContentHeaderLabel(13).Caption=
+pageKeywords(13).Text=³·Ïú;Undo
+pageC.pages[14].ImageIndex=-1
+pageTitle(14).Text=×î½ü´ò¿ªÎÄµµÁĞ±í²Ëµ¥ÊµÏÖ
+getPageConstantLabel(14).Caption=
+getPageContentHeaderLabel(14).Caption=
+pageKeywords(14).Text=×î½ü´ò¿ªÎÄµµÁĞ±í;×î½ü´ò¿ª;Recent Files
+pageC.pages[15].ImageIndex=-1
+pageTitle(15).Text=ÎÄ±¾¸ñÊ½ÉèÖÃ¹¦ÄÜÊµÏÖ
+getPageConstantLabel(15).Caption=
+getPageContentHeaderLabel(15).Caption=
+pageKeywords(15).Text=¸ñÊ½;¶ÔÆë;×ÖÌå;ÑÕÉ«
+pageC.pages[16].ImageIndex=-1
+pageTitle(16).Text=Ñ¡È¡ÎÄ±¾¹¦ÄÜÊµÏÖ
+getPageConstantLabel(16).Caption=
+getPageContentHeaderLabel(16).Caption=
+pageKeywords(16).Text=Ñ¡È¡;Ñ¡Ôñ;Select
+pageC.pages[17].ImageIndex=-1
+pageTitle(17).Text=´°¿ÚÅÅÁĞ¹¦ÄÜÊµÏÖ
+getPageConstantLabel(17).Caption=
+getPageContentHeaderLabel(17).Caption=
+pageKeywords(17).Text=´°¿Ú;´°¿ÚÅÅÁĞ;ÅÅÁĞ
+pageC.pages[18].ImageIndex=-1
+pageTitle(18).Text=¸½Êô¹¤¾ßºÍÓÎÏ·¹¦ÄÜ
+getPageConstantLabel(18).Caption=
+getPageContentHeaderLabel(18).Caption=
+pageKeywords(18).Text=¸½Êô¹¤¾ß;¸½ÊôÓÎÏ·;Tools;Games
+------------ end of page titles / full text of pages follow ------------
+----- SHM ---- page 0 ---- 
+    <b><color=10>CCEditor</color></b> ÊÇÒ»¸öÀàËÆÓÚĞ´×Ö°åµÄÎÄ±¾±à³ÌĞ¡³ÌĞò£¬ËüÖ§³Ö .txt ºÍ .rtf ¸ñÊ½µÄÎÄ¼ş£¬Ò²Ö§³ÖÆäËüÒÔÎÄ±¾ĞÎÊ½±£´æµÄÎÄ¼ş£¬Ïñ .c ºÍ .ini Ö®Àà¸ñÊ½µÄÎÄ¼ş¡£²¢ÇÒ¿ÉÒÔÒ»´Î´ò¿ª¶à¸öÎÄ¼ş¡£
+    <b><color=10>CCEDitor</color></b>  ²Ù×÷½çÃæÖ÷ÒªÓÉ±êÌâÀ¸¡¢<jump=SHM_contents0009>¹¤¾ßÀ¸</jump>¡¢<jump=SHM_contents0010>×´Ì¬À¸</jump>¡¢<jump=SHM_contents0011>µ¼º½À¸</jump>ºÍ¹¤×÷ÇøÎå²¿·Ö×é³É£¬³ÌĞòÖ÷ÒªÓÉ²Ëµ¥Çı¶¯£¬Ò»Ğ©³£ÓÃµÄ²Ù×÷Ò²¿ÉÒÔÍ¨¹ıµ¥»÷¹¤¾ßÀ¸ÖĞ¿ì½İ°´Å¥ÊµÏÖ¡£ÔÚ×´Ì¬À¸ÖĞ¿ÉÒÔ¿´µ½µ±Ç°µÄ¹¤×÷×´Ì¬Ïà¹ØµÄĞÅÏ¢¡¢Ò»Ğ©°´¼üµÄĞÅÏ¢ÒÔ¼°Ê±¼äºÍÈÕÆÚ¡£ÓÃ»§¿ÉÒÔÍ¨¹ı³ÌĞò½çÃæ×ó±ßµÄµ¼º½À¸À´²é¿´ÎÄ¼ş£¬Ò²¿ÉÒÔÍ¨¹ıË«»÷ÏàÓ¦ÎÄ¼ş´ò¿ª¸ÃÎÄ¼ş¡£
+    ³ÌĞò»¹Ìá¹©ÁË±£´æ<jump=SHM_contents0015>×î½ü´ò¿ªÎÄ¼ş²Ëµ¥ÁĞ±í</jump>¹¦ÄÜ£¬<jump=SHM_contents0012>¼ôÌù°å</jump>¡¢<jump=SHM_contents0013>²éÕÒÌæ»»</jump>µÄ¹¦ÄÜ£¬³·Ïú¹¦ÄÜ£¬ÎÄ¼şÖĞµÄÊı×Ö¡¢×Ö·ûÄÜÉèÖÃ²»Í¬µÄ<jump=SHM_contents0016>ÑÕÉ«</jump>ÏÔÊ¾µÄ¹¦ÄÜ£¬ÔÚÏß°ïÖú¹¦ÄÜµÄÊµÏÖ£¬<jump=SHM_contents0018>´°¿ÚÅÅÁĞ</jump>µÄ¹¦ÄÜ£¬<jump=SHM_contents0016>×ÖÌå</jump>¸ñÊ½ÉèÖÃ¹¦ÄÜ£¬ÒÔ¼°<jump=SHM_contents0019>¸¨Öú¹¤¾ß</jump>¹¦ÄÜµÈ¡£
+
+    ³ÌĞò½çÃæÈçÏÂÍ¼ËùÊ¾£º
+
+\par\ql\{bmc CCEditor.bmp\}\par\ql
+----- SHM ---- page 1 ---- 
+ÎÄ¼ş£¨File£©²Ëµ¥Ìá¹©ÁËÒÔÏÂÃüÁî£º
+
+<jump=New>New</jump>		½¨Á¢Ò»¸öĞÂÎÄµµ¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+N</color>
+<jump=Open>Open</jump>		´ò¿ªÒ»¸öÏÖ´æÎÄµµ¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+O</color>
+<color=7>Close</color>		¹Ø±ÕÒ»¸ö´ò¿ªµÄÎÄµµ¡£
+
+<jump=Save>Save</jump>		ÓÃÍ¬ÑùµÄÎÄ¼şÃû±£´æÒ»¸ö´ò¿ªµÄÎÄµµ¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+S</color>
+<color=7>Save As</color>		ÓÃÖ¸¶¨µÄÎÄ¼şÃû±£´æÒ»¸ö´ò¿ªµÄÎÄµµ¡£
+
+<jump=SHM_contents0015>Recent Files	</jump>¸ÃÄ¿Â¼ÏÂ±£´æ×î½ü´ò¿ªÎÄµµÁĞ±í¡£
+
+<color=7>Exit</color>			ÍË³ö³ÌĞò
+----- SHM ---- page 2 ---- 
+±à¼­£¨Edit£©²Ëµ¥Ìá¹©ÁËÒÔÏÂÃüÁî£º
+
+<jump=Undo>Undo</jump>		³·ÏúÏÈÇ°µÄ±à¼­²Ù×÷¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+Z</color>
+<jump=Redo>Redo</jump>		ÖØ×öÒÑ³·ÏúµÄ±à¼­²Ù×÷¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+Y</color>
+<jump=Cut>Cut</jump>			´ÓÎÄµµÖĞÉ¾³ıÊı¾İ²¢½«ÆäÒÆµ½¼ôÌù°åÉÏ¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+X</color>
+<jump=Copy>Copy</jump>		´ÓÎÄµµÖĞ½«Êı¾İ¸´ÖÆµ½¼ôÌù°åÉÏ¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+C</color>
+<jump=Paste>Paste</jump>		´Ó¼ôÌù°åÉÏ½«Êı¾İÕ³Ìùµ½ÎÄµµÖĞ¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+V</color>
+<jump=Delete>Delete</jump>		´ÓÎÄµµÖĞÉ¾³ıÊı¾İ¡£
+			¿ì½İ¼ü£º<color=10>Del</color>
+<jump=SHM_contents0017>Select All</jump>	´ÓÎÄµµÖĞÑ¡È¡ËùÓĞÊı¾İ¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+A</color>
+----- SHM ---- page 3 ---- 
+²é¿´£¨View£©²Ëµ¥Ìá¹©ÁËÒÔÏÂÃüÁî£º
+
+<jump=SHM_contents0009>Toolbar</jump>		ÏÔÊ¾»òÒş²Ø¹¤¾ßÀ¸¡£
+<jump=SHM_contents0010>Statusbar</jump>	ÏÔÊ¾»òÒş²Ø×´Ì¬À¸¡£
+<jump=SHM_contents0011>Navigation</jump>	ÏÔÊ¾»òÒş²Ø×´Ì¬À¸¡£
+----- SHM ---- page 4 ---- 
+<jump=SHM_contents0013>²éÕÒ</jump>£¨Search£©²Ëµ¥Ìá¹©ÁËÒÔÏÂÃüÁî£º
+
+<jump=SHM_contents0013>Find</jump>		ÔÚÎÄµµÖĞ²éÕÒÖ¸¶¨µÄ×Ö·û´®¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+F</color>
+<jump=SHM_contents0013>Find Next</jump>			¼ÌĞøÔÚÎÄµµÖĞ²éÕÒÍ¬Ò»×Ö·û´®¡£
+			¿ì½İ¼ü£º<color=10>F3</color>
+<jump=SHM_contents0013>Replace</jump>		°ÑÎÄµµÖĞµÄÖ¸¶¨µÄ×Ö·û´®Ìæ»»³ÉÁíÒ»×Ö·û´®¡£
+			¿ì½İ¼ü£º<color=10>Ctrl+F3</color>
+----- SHM ---- page 5 ---- 
+Ñ¡Ïî£¨Options£©²Ëµ¥Ìá¹©ÁËÒÔÏÂÃüÁî£º
+
+<jump=SHM_contents0016>ÎÄ±¾¶ÔÆëÉèÖÃ</jump>£º<target>ÎÄ±¾¶ÔÆëÉèÖÃ</target>
+<color=7>Align To Left</color>		ÉèÖÃÎÄµµ×ó¶ÔÆë¡£
+<color=7>Align To Right</color>		ÉèÖÃÎÄµµÓÒ¶ÔÆë¡£
+<color=7>Align To Center</color>		ÉèÖÃÎÄµµÖĞ¼ä¶ÔÆë¡£
+
+<jump=SHM_contents0016>ÎÄ±¾×ÖÌå¼°ÑÕÉ«ÉèÖÃ</jump>£º<target>ÎÄ±¾×ÖÌå¼°ÑÕÉ«ÉèÖÃ</target>
+<color=7>Font	</color>		ÉèÖÃ×ÖÌå¡£
+<color=7>Color</color>£º
+	<color=7>Text Color</color>		ÉèÖÃÎÄ±¾ÑÕÉ«¡£
+	<color=7>Char Color</color>		ÉèÖÃ·ÇÊı×Ö×Ö·ûÑÕÉ«¡£
+	<color=7>Num Color</color>		ÉèÖÃÊı×Ö×Ö·ûÑÕÉ«¡£
+
+<jump=SHM_contents0015>×î½ü´ò¿ªÎÄµµÏà¹ØÉèÖÃ</jump>£º<target>×î½ü´ò¿ªÎÄµµÏà¹ØÉèÖÃ</target>
+<color=7>Clear Recent Files</color>	Çå³ıËùÓĞ×î½ü´ò¿ªÎÄµµÁĞ±í¡£
+<color=7>Set Recent File Maximum</color>	ÉèÖÃ×î½ü´ò¿ªÎÄµµÁĞ±íÊıÄ¿×î´óÖµ¡£
+
+<jump=SHM_contents0019>¸½Êô¹¤¾ßºÍÓÎÏ·ÉèÖÃ</jump>£º<target>¸½Êô¹¤¾ßºÍÓÎÏ·ÉèÖÃ</target>
+<color=7>Tools£</color>
+	<color=7>Calculator</color>		¼ÆËãÆ÷¹¤¾ß¡£
+	<color=7>Clipboard</color>		¼ôÌù°å¡£
+	<color=7>Internet Explorer</color>		IE ä¯ÀÀÆ÷¡£
+	<color=7>Paint</color>		»­Í¼°å¡£
+<color=7>Games£</color>º
+	<color=7>Hearts</color>		ºìĞÄ´óÕ½¡£
+	<color=7>Miner</color>		É¨À×¡£
+	<color=7>Sol</color>			Ö½ÅÆÓÎÏ·¡£
+----- SHM ---- page 6 ---- 
+<jump=SHM_contents0018>´°¿Ú</jump>£¨Window£©²Ëµ¥Ìá¹©ÁËÒÔÏÂÃüÁî¡£ÕâĞ©ÃüÁîÊ¹ÄúÄÜÔÚÓ¦ÓÃ³ÌĞò´°¿ÚÖĞ°²ÅÅ¶à¸öÎÄµµµÄ¶à¸öÊÓÍ¼£º
+
+<color=7>Cascade</color>	°´ÖØµş·½Ê½°²ÅÅ´°¿Ú¡£
+<color=7>Tile Horizontally</color>	°´»¥²»ÖØµşË®Æ½Æ½ÆÌ·½Ê½°²ÅÅ´°¿Ú¡£
+<color=7>Tile Vertically</color>	°´»¥²»ÖØµş´¹Ö±Æ½ÆÌ·½Ê½°²ÅÅ´°¿Ú¡£
+<color=7>Arrange Icons</color>	°²ÅÅÒÑ¹Ø±Õ´°¿ÚµÄÍ¼±ê¡£
+----- SHM ---- page 7 ---- 
+°ïÖú£¨Help£©²Ëµ¥Ìá¹©ÁËÒÔÏÂÃüÁî£º
+
+<color=7>Help Topic</color>	Ìá¹©Äú¿É´ÓÆäµÃµ½°ïÖúµÄÖ÷ÌâË÷Òı¡£
+			¿ì½İ¼ü£º<color=10>F1</color>
+<color=7>About CCEditor</color>	ÏÔÊ¾Õâ¸öÓ¦ÓÃ³ÌĞòµÄ°æ±¾ºÅ¡£
+----- SHM ---- page 8 ---- 
+¹¤¾ßÀ¸£¨Toolbar£©ÈçÏÂÍ¼£º
+
+\par\ql\{bml Toolbar.bmp\}\par\ql
+
+¹¤¾ßÀ¸ÏÔÊ¾ÓÚ³ÌĞòÖ÷´°¿ÚµÄÉÏ²¿¡£ÒªÏëÏÔÊ¾»òÒş²Ø¹¤¾ßÀ¸£¬¿ÉÓÃ²é¿´Ä¿Â¼ÖĞµÄ¹¤¾ßÀ¸ÃüÁî¡£
+
+ÆäÖĞ¸÷°´Å¥ÏàÓ¦¹¦ÄÜÈçÏÂ£º
+
+\{bml new.bmp\}	<jump=SHM_contents0002>New	</jump>	½¨Á¢Ò»¸öĞÂÎÄµµ¡£<target>New</target>
+
+\{bml open.bmp\}	<jump=SHM_contents0002>Open</jump>		´ò¿ªÒ»¸öÏÖ´æÎÄµµ¡£<target>Open</target>
+
+\{bml save.bmp\}	<jump=SHM_contents0002>Save</jump>		ÓÃÍ¬ÑùµÄÎÄ¼şÃû±£´æÒ»¸ö´ò¿ªµÄÎÄµµ¡£<target>Save</target>
+
+\{bml undo.bmp\}	<jump=SHM_contents0003>Undo</jump>		³·ÏûÏÈÇ°µÄ±à¼­²Ù×÷¡£<target>Undo</target>
+
+\{bml redo.bmp\}	<jump=SHM_contents0003>Redo</jump>		ÖØ×ö³·ÏûµÄ±à¼­²Ù×÷¡£<target>Redo</target>
+
+\{bml cut.bmp\}	<jump=SHM_contents0003>Cut</jump>		´ÓÎÄµµÖĞÉ¾³ıÊı¾İ²¢½«ÆäÒÆµ½¼ôÌù°åÉÏ¡£<target>Cut</target>
+
+\{bml copy.bmp\}	<jump=SHM_contents0003>Copy</jump>		´ÓÎÄµµÖĞ½«Êı¾İ¸´ÖÆµ½¼ôÌù°åÉÏ¡£<target>Copy</target>
+
+\{bml paste.bmp\}	<jump=SHM_contents0003>Paste</jump>		´Ó¼ôÌù°åÉÏ½«Êı¾İÕ³Ìùµ½ÎÄµµÖĞ¡£<target>Paste</target>
+
+\{bml delete.bmp\}	<jump=SHM_contents0003>Delete</jump>		´ÓÎÄµµÖĞÉ¾³ıÊı¾İ¡£<target>Delete</target>
+
+\{bml help.bmp\}	<jump=SHM_contents0008>Help Topic</jump>	Ìá¹©Äú¿É´ÓÆäµÃµ½°ïÖúµÄÖ÷ÌâË÷Òı¡£<target>Help</target>
+----- SHM ---- page 9 ---- 
+×´Ì¬À¸£¨Statusbar£©ÈçÏÂÍ¼£º
+
+\par\ql\{bml Statusbar.bmp\}\par\ql
+
+×´Ì¬À¸ÏÔÊ¾ÓÚ³ÌĞòÖ÷´°¿ÚµÄµ×²¿¡£ÒªÏëÏÔÊ¾»òÒş²Ø×´Ì¬À¸£¬¿ÉÓÃ²é¿´Ä¿Â¼ÖĞµÄ×´Ì¬À¸ÃüÁî¡£
+
+×´Ì¬À¸ÖĞÓĞÁù¸öÖ¸Ê¾Æ÷£¬ÄÜÖ¸Ê¾µ±Ç°¹¤×÷×´Ì¬¡¢Ê±¼ä¡¢ÈÕÆÚ¡¢²åÈë¸²¸Ç¼ü×´Ì¬¡¢´óĞ´Ëø¶¨¼ü×´Ì¬¡¢Êı×ÖËø¶¨¼ü×´Ì¬¡£
+
+¸÷Ö¸Ê¾Æ÷ÈçÏÂ£º
+
+<color=7>¹¤×÷×´Ì¬Ö¸Ê¾</color>	Ö¸Ê¾µ±Ç°¹¤×÷×´Ì¬¡£
+<color=7>ÈÕÆÚ</color>		Ö¸Ê¾µ±Ç°ÈÕÆÚ¡£
+<color=7>Ê±¼ä</color>		Ö¸Ê¾µ±Ç°Ê±¼ä¡£
+<color=7>INS</color>			²åÈë¸²¸Ç¼ü±»Ëø×¡¡£
+<color=7>CAP</color>		´óĞ´Ëø¶¨¼ü±»Ëø×¡¡£
+<color=7>NUM</color>		Êı×ÖËø¶¨¼ü±»Ëø×¡¡£
+----- SHM ---- page 10 ---- 
+µ¼º½À¸£¨Navigation£©ÈçÏÂÍ¼£º
+
+\par\ql\{bml Navigation.bmp\}\par\ql
+
+µ¼º½À¸ÏÔÊ¾ÓÚ³ÌĞòÖ÷´°¿ÚµÄ×ó²¿¡£ÒªÏëÏÔÊ¾»òÒş²Øµ¼º½À¸£¬¿ÉÓÃ²é¿´Ä¿Â¼ÖĞµÄµ¼º½À¸ÃüÁî¡£
+
+µ¼º½À¸·ÖÎªÇı¶¯ÅÌ¡¢Ä¿Â¼À¸¡¢ÎÄ¼şÇøÈı²¿·Ö¡£¿ÉÒÔºÜ·½±ãµØ²éÕÒËùÓĞ¿É¶ÁµÄÎÄ¼ş¡£²¢¿ÉÒÔÍ¨¹ıË«»÷Ïà¹ØÎÄ¼ş´ò¿ªÎÄ¼ş¡£
+----- SHM ---- page 11 ---- 
+¼ôÌù°åµÄ²Ù×÷ºÍÆäËû¸÷ÖÖÎÄ±¾±à¼­Æ÷µÄ¹¦ÄÜÃ»ÓĞÒ»Ñù£¬¿ÉÒÔµ¥»÷²Ëµ¥ Edit ÖĞÏàÓ¦²Ëµ¥ <jump=SHM_contents0003>Cut</jump> ¡¢<jump=SHM_contents0003>Copy</jump> ¡¢<jump=SHM_contents0003>Paste</jump> ¡¢<jump=SHM_contents0003>Delete </jump>ÊµÏÖ¡£Ò²¿ÉÒÔÍ¨¹ıµ¥»÷<jump=SHM_contents0009>¹¤¾ßÀ¸</jump>ÖĞÏàÓ¦°´Å¥ÊµÏÖ¡£
+----- SHM ---- page 12 ---- 
+²éÕÒÌæ»»²Ù×÷²ÉÓÃÍ¨ÓÃµÄ¶Ô»°¿ò£¬µ¥»÷ <jump=SHM_contents0005>Search</jump> ²Ëµ¥ÏÂµÄ <jump=SHM_contents0005>Find </jump>ºÍ <jump=SHM_contents0005>Replace</jump> »á³öÏÖÒ»¸öÍ¬ÑùµÄ¶Ô»°¿òÈçÏÂ£º
+
+\par\ql\{bml Find.bmp\}\par\ql
+
+¸Ã¶Ô»°¿òÊÇÎŞÄ£Ê½¶Ô»°¿ò£¬ÔÚ <color=10>Find What</color> ºóµÄÎÄ±¾¿òÖĞÊäÈëÒª²éÕÒµÄ×Ö·û´®£¬È»ºóµ¥»÷²éÕÒ±ã¿ÉÒÔ²éÕÒ¸Ã×Ö·û´®¡£¶øÔÚ²éÕÒÇ°Ò²¿ÉÒÔÉèÖÃ´óĞ¡Ğ´ÊÇ·ñÆ¥Åä£¬Ñ¡ÖĞ Match Case ¼´ÊµÏÖ´óĞ¡Ğ´Æ¥Åä¡£ÔÚ<color=10>Direction</color> µ¥Ñ¡¿òÖĞÑ¡ÖĞ <color=10>Up</color> ¿ÉÒÔÊµÏÖÏòÉÏËÑË÷£¬Ñ¡ÖĞ <color=10>Down</color> ¿ÉÒÔÊµÏÖÏòÏÂËÑË÷¡£µÚÒ»´Î²éÕÒºó¿ÉÒÔ°´ <color=10>Find Next</color> ¼ÌĞø²éÕÒ¡£
+ÒªÊµÏÖÌæ»»¹¦ÄÜ£¬¿ÉÒÔÔÚ <color=10>Replace With</color> ºóµÄÎÄ±¾¿òÖĞÊäÈëĞèÌæ»»µÄ×Ö·û´®£¬²»ÊäÈëµÄ»°Ïàµ±ÓÚ¿Õ×Ö·û´®£¬ÆäËûÓë²éÕÒÏàÍ¬¡£¿ÉÒÔµ¥»÷ <color=10>Replace</color> Ò»´Î´ÎµØÌæ»»£¬Ò²¿ÉÒÔµ¥»÷ <color=10>Replace All </color>ÊµÏÖËùÓĞ¸Ã×Ö·û´®µÄÌæ»»¡£
+----- SHM ---- page 13 ---- 
+µ¥»÷ Edit ²Ëµ¥ÏÂµÄ<jump=SHM_contents0003> Undo</jump> ²Ëµ¥£¬»òÕßµ¥»÷¹¤¾ßÀ¸µÄ³·ÏúÍ¼±ê£¬¼´¿ÉÒÔÊµÏÖ¶à²½³·Ïú¹¦ÄÜ¡£
+µ¥»÷ Edit ²Ëµ¥ÏÂµÄ<jump=SHM_contents0003> Redo</jump> ²Ëµ¥£¬»òÕßµ¥»÷¹¤¾ßÀ¸µÄÖØ×öÍ¼±ê£¬¼´¿ÉÒÔÊµÏÖÖØ×ö¹¦ÄÜ¡£
+----- SHM ---- page 14 ---- 
+×î½ü´ò¿ªÎÄµµÁĞ±íÎ»ÓÚ²Ëµ¥ÖĞ File ÏÂµÄ <color=10>Recent Files</color> ÏÂ£¬Æä×î´óÊıÄ¿¿ÉÒÔÉèÖÃ£¬¾ßÌåÉèÖÃÎªÔÚ Options ²Ëµ¥ÏÂµ¥»÷ <jump=×î½ü´ò¿ªÎÄµµÏà¹ØÉèÖÃ>Set Recent File Maximum </jump>²Ëµ¥£¬±ã»áµ¯³öÉèÖÃ¶Ô»°¿ò£¬¿ÉÒÔÔÚ¶Ô»°¿òµÄÎÄ±¾¿òÖĞÊäÈëÊıÖµ½øĞĞÉèÖÃ£¬×¢Òâ£¬ÊıÖµ±ØĞëÔÚ<color=10>0--9</color>Ö®¼ä¡£¶Ô»°¿ò½çÃæÈçÏÂ£º
+
+\par\ql\{bml Recent.bmp\}\par\ql
+
+Èç¹ûÒªÇå³ıËùÓĞ×î½ü´ò¿ªÎÄµµÁĞ±í¼ÇÂ¼£¬µ¥»÷ Options ²Ëµ¥ÏÂ <jump=×î½ü´ò¿ªÎÄµµÏà¹ØÉèÖÃ>Clear Recent Files</jump> ²Ëµ¥¼´¿É¡£
+
+ÁíÍâĞèÒªËµÃ÷µÄÊÇ£¬³ÌĞòµÄ×î½ü´ò¿ªÎÄµµÁĞ±íµÄÏà¹ØĞÅÏ¢´¢´æÔÚ<color=10>×¢²á±í</color>ÖĞ¡£
+----- SHM ---- page 15 ---- 
+ÎÄ±¾¸ñÊ½ÉèÖÃ·ÖÎª£º
+<jump=ÎÄ±¾¶ÔÆëÉèÖÃ>ÎÄ±¾¶ÔÆë</jump>·½Ê½£º×ó¶ÔÆë¡¢ÓÒ¶ÔÆë¡¢ÖĞĞÄ¶ÔÆë£»
+<jump=ÎÄ±¾×ÖÌå¼°ÑÕÉ«ÉèÖÃ>ÎÄ±¾×ÖÌå</jump>ÉèÖÃ£»
+<jump=ÎÄ±¾×ÖÌå¼°ÑÕÉ«ÉèÖÃ>ÎÄ±¾ÑÕÉ«</jump>ÉèÖÃ£ºÈ«²¿ÎÄ±¾ÑÕÉ«¡¢·ÇÊı×Ö×Ö·ûÑÕÉ«¡¢Êı×Ö×Ö·ûÑÕÉ«¡£
+
+¾ßÌåÉèÖÃ¾ùÔÚ Options ²Ëµ¥ÖĞÊµÏÖ£º
+ÉèÖÃÎÄ±¾¶ÔÆë·½Ê½£ºÖ±½Óµ¥»÷ Align To Left ¡¢Align To Right ¡¢Align To Center ¼´¿É¡£
+ÉèÖÃÎÄ±¾×ÖÌå£ºµ¥»÷ Font £¬»áµ¯³ö×ÖÌåÉèÖÃ¶Ô»°¿ò£¬ÈçÏÂ£º
+
+\par\ql\{bml font.bmp\}\par\ql
+
+ÉèÖÃ¹ã±¾ÑÕÉ«£ºµ¥»÷ Color ÏÂµÄ Text Color ¡¢Char Color ¡¢Num Color ²Ëµ¥£¬»á·Ö±ğµ¯³öÑÕÉ«ÉèÖÃ¶Ô»°¿ò½øĞĞÏàÓ¦ÉèÖÃ£¬ÈçÏÂ£º
+
+\par\ql\{bml color.bmp\}\par\ql
+
+×¢Òâ£¬ÑÕÉ«ÉèÖÃºÍ×ÖÌåÉèÖÃ¶ÔÑ¡ÖĞµÄÎÄ×ÖÓĞĞ§£¬²¢ÇÒ¶ÔÒÔºóÊäÈëµÄ×Ö·ûÒ²ÓĞĞ§¡£
+----- SHM ---- page 16 ---- 
+°´ÏÂÊó±ê×ó¼ü£¬ÔÚÎÄÖĞÍÏ¶¯£¬¼´¿ÉÑ¡È¡Ïà¹ØÎÄ±¾£¬Èç¹ûÏëÑ¡ÖĞÎÄµµÖĞÈ«²¿Êı¾İ£¬¿ÉÒÔµ¥»÷ Edit ²Ëµ¥ÏÂµÄ<jump=SHM_contents0003> Select All </jump>ÊµÏÖÈ«Ñ¡¹¦ÄÜ¡£
+----- SHM ---- page 17 ---- 
+Ö±½Óµ¥»÷²Ëµ¥<jump=SHM_contents0007> Window</jump> ÏÂµÄ Cascade ¡¢Tile Horizontally ¡¢Tile Vertically ¡¢Arrange Icons ²Ëµ¥¼´¿É¡£¾ßÌå¼û<jump=SHM_contents0007>ÏàÓ¦°´Å¥</jump>×÷ÓÃ¡£
+----- SHM ---- page 18 ---- 
+±¾³ÌĞòÊµÏÖÁË¸½Êô¹¤¾ßºÍÓÎÏ·µÄ¹¦ÄÜ£¬ÕâĞ©¹¤¾ßºÍÓÎÏ·ÊÇ Windows ÏµÍ³ÏÂ³£ÓÃµÄÈí¼ş£¬¿ÉÒÔÍ¨¹ıÖ±½Óµ¥»÷ Options ÏÂµÄ Tools ºÍ Games ÏµÁĞ²Ëµ¥ÊµÏÖ¡£¾ßÌå¼û<jump=SHM_contents0009>Ïà¹Ø²Ëµ¥½éÉÜ</jump>¡£

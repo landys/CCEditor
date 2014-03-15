@@ -1,0 +1,27 @@
+:Base CCEditor.hlp
+:Title CCEditor
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 CCEditor
+2 CCEditor 简介=SHM_contents0001@CCEditor.hlp
+2 菜单命令
+3 文件（File）菜单命令=SHM_contents0002@CCEditor.hlp
+3 编辑（Edit）菜单命令=SHM_contents0003@CCEditor.hlp
+3 查看（View）菜单命令=SHM_contents0004@CCEditor.hlp
+3 查找（Search）菜单命令=SHM_contents0005@CCEditor.hlp
+3 选项（Options）菜单命令=SHM_contents0006@CCEditor.hlp
+3 窗口（Window）菜单命令=SHM_contents0007@CCEditor.hlp
+3 帮助（Help）菜单命令=SHM_contents0008@CCEditor.hlp
+2 界面栏框相关
+3 工具栏（Toolbar）=SHM_contents0009@CCEditor.hlp
+3 状态栏（Statusbar）=SHM_contents0010@CCEditor.hlp
+3 导航栏（Navigation）=SHM_contents0011@CCEditor.hlp
+1 主要功能实现
+1 剪贴板功能实现=SHM_contents0012@CCEditor.hlp
+1 查找替换功能实现=SHM_contents0013@CCEditor.hlp
+1 撤销功能实现=SHM_contents0014@CCEditor.hlp
+1 最近打开文档列表菜单实现=SHM_contents0015@CCEditor.hlp
+1 文本格式设置功能实现=SHM_contents0016@CCEditor.hlp
+1 选取文本功能实现=SHM_contents0017@CCEditor.hlp
+1 窗口排列功能实现=SHM_contents0018@CCEditor.hlp
+1 附属工具和游戏功能=SHM_contents0019@CCEditor.hlp
